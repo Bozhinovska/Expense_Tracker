@@ -23,6 +23,8 @@ You can easily add new expenses, view them in a clean table, see your total spen
 
    ```bash
    git clone https://github.com/Bozhinovska/Expense_Tracker.git
+   ```
+   ```bash
    cd ExpenseTracker
    ```
 2. Install dependencies
