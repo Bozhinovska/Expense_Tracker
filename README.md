@@ -1,4 +1,4 @@
-## Expense Tracker (Flask App)
+## Expense Tracker
 
 A simple web application built with **Flask** and **SQLite** that helps you track your daily expenses.
 You can easily add new expenses, view them in a clean table, see your total spending, and delete entries you no longer need.
@@ -36,5 +36,5 @@ You can easily add new expenses, view them in a clean table, see your total spen
    python3 app.py
    ```
 4. Open your browser and go to
-   👉 `http://127.0.0.1:5000`
+   `http://127.0.0.1:5000`
 
