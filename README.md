@@ -27,6 +27,9 @@ You can easily add new expenses, view them in a clean table, see your total spen
    ```bash
    cd Expense_Tracker
    ```
+   ```bash
+   cd ExpenseTracker
+   ```
 2. Install dependencies
 
    ```bash
