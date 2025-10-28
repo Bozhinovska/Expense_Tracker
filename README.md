@@ -32,14 +32,19 @@ You can easily add new expenses, view them in a clean table, see your total spen
    ```
 2. Install dependencies
 
-   ```bash
+  ```bash
    pip install flask
    ```
-3. Run the app
+ 
+4. Run the app
 
    ```bash
-   python3 app.py
+   python app.py
    ```
-4. Open your browser and go to
+   If the above command doesn't work (e.g. on macOS or Linux), try:
+    ```bash
+   python3 app.py
+    ```
+5. Open your browser and go to
    `http://127.0.0.1:5000`
 
